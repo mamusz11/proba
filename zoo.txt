@@ -1,2 +1,5 @@
 lion
 tiger
+pinguin
+zeeeebra
+dog
