@@ -3,3 +3,6 @@ tiger
 pinguin
 zeeeebra
 dog
+pig
+lama
+zebra2
